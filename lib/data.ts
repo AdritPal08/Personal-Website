@@ -1,8 +1,8 @@
 export const personalInfo = {
     name: "Adrit Pal",
     title: "AI Solutions Engineer & Data Analyst",
-    email: "adrit.pal@example.com", // Placeholder, replace if specific email needed
-    phone: "+91 0000000000", // Placeholder
+    email: "adritpal4@gmail.com",
+    phone: "+91 8328738418",
     location: "Kolkata, India",
     github: "https://github.com/AdritPal08",
     linkedin: "https://www.linkedin.com/in/adrit-pal",
@@ -197,63 +197,63 @@ export const dashboards = [
         platform: "Looker Studio",
         purpose: "Track sales performance and trends.",
         insights: ["Sales trends over time", "Performance breakdowns by key dimensions"],
-        link: "https://lookerstudio.google.com/u/0/reporting/c622557e-3759-4b68-b80c-03598797f7fa/page/p_3g0e1wlocd"
+        link: "https://lookerstudio.google.com/reporting/a5664ef0-5899-432f-8f20-b7641696340d"
     },
     {
         title: "Account Receivable Aging Report",
         platform: "Looker Studio",
         purpose: "Monitor receivables and overdue risk.",
         insights: ["Aging bucket distribution", "Overdue visibility for follow-ups"],
-        link: "https://lookerstudio.google.com/u/0/reporting/f868ad92-1a13-40e6-99c3-71a74246087d/page/p_h6x29n8kdd"
+        link: "https://lookerstudio.google.com/reporting/e8a2d31c-5256-459a-a273-046e8bb69e7b"
     },
     {
         title: "Profit & Loss Dashboard",
         platform: "Looker Studio",
         purpose: "Profitability tracking and finance overview.",
         insights: ["Revenue vs cost trends", "High-level profitability view"],
-        link: "https://lookerstudio.google.com/u/0/reporting/61695420-13a8-4228-b0a5-f3769c298059/page/p_408542budd"
+        link: "https://lookerstudio.google.com/reporting/3e946ae1-d87e-4060-9682-33e76ead5d8c"
     },
     {
         title: "Cash Flow Analysis Dashboard",
         platform: "Looker Studio",
         purpose: "Cash movement tracking.",
         insights: ["Cash flow overview", "Cash position trend signals"],
-        link: "https://lookerstudio.google.com/u/0/reporting/fe38719f-1d44-4809-858a-a53d6ab244e8/page/p_svb0w8budd"
+        link: "https://lookerstudio.google.com/reporting/efebeae1-cf4a-44c5-8fd2-fe4e7fbe6d83"
     },
     {
         title: "HR Analytics Dashboard",
         platform: "Power BI",
         purpose: "HR reporting and workforce metrics.",
         insights: ["HR KPIs snapshot", "Trends across key HR measures"],
-        link: "https://app.powerbi.com/view?r=eyJrIjoiMDdjYjRhZWQtM2E5MS00ZWY0LWI1OTQtMGE5OWMzZmExNmI1IiwidCI6IjE4NWE2OTk2LWUwNjgtNDc1Ni1hZTM3LTVjM2QyYzIyM2MzZSJ9"
+        link: "https://app.powerbi.com/view?r=eyJrIjoiNjY2NmEzYTUtMDA5NS00NWE1LWJlYTItN2EwZTBiZWRjNGMwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"
     },
     {
         title: "Cryptocurrency, Stocks & ETFs Analysis",
         platform: "Power BI",
         purpose: "Market performance tracking.",
         insights: ["Price trend views", "Comparative performance"],
-        link: "https://app.powerbi.com/view?r=eyJrIjoiMTc0MGIyYTQtMDFmZi00OWU5LTlhMjAtMTQ2YjAzYjg5YzA3IiwidCI6IjE4NWE2OTk2LWUwNjgtNDc1Ni1hZTM3LTVjM2QyYzIyM2MzZSJ9"
+        link: "https://app.powerbi.com/view?r=eyJrIjoiZmM1NzlkNmYtYmMxYS00NjdkLWExYjMtNTgzMjBhODFjMTNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"
     },
     {
         title: "Personal Financial Dashboard",
         platform: "Power BI",
         purpose: "Personal finance tracking.",
         insights: ["Income/expense overview", "Trend summaries"],
-        link: "https://app.powerbi.com/view?r=eyJrIjoiOGM1ZjJmZDItMDUwZS00MWE1LWI5MjEtMzUzMDc4YTEyODczIiwidCI6IjE4NWE2OTk2LWUwNjgtNDc1Ni1hZTM3LTVjM2QyYzIyM2MzZSJ9"
+        link: "https://app.powerbi.com/view?r=eyJrIjoiMzk5MzE5MDYtNjdjYi00NzE3LTkyNWItZGU1M2YyZmE3NjFiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"
     },
     {
         title: "Supply Chain Analysis Dashboard",
         platform: "Power BI",
         purpose: "Supply chain KPI visibility.",
         insights: ["Operational KPI snapshot", "Category / workflow performance summaries"],
-        link: "https://app.powerbi.com/view?r=eyJrIjoiNjA3YmMwNDctNDY1Zi00YmU0LWJjYmMtZWY3YzM3YzIzZGM1IiwidCI6IjE4NWE2OTk2LWUwNjgtNDc1Ni1hZTM3LTVjM2QyYzIyM2MzZSJ9"
+        link: "https://app.powerbi.com/view?r=eyJrIjoiMjEwYTY0YjItZWUyMS00MjFiLTg0ODYtMDFkZjZkNzZlZWJjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true"
     },
     {
         title: "Export & Import Analysis Dashboard",
         platform: "Power BI",
         purpose: "Trade analysis overview.",
         insights: ["Export/import KPI trends", "Summary performance view"],
-        link: "https://app.powerbi.com/view?r=eyJrIjoiYzhkOWNkY2MtMDViYy00OGJjLWJkMDItODEyZDQ4NmUzYmNlIiwidCI6IjE4NWE2OTk2LWUwNjgtNDc1Ni1hZTM3LTVjM2QyYzIyM2MzZSJ9"
+        link: "https://app.powerbi.com/view?r=eyJrIjoiMDkxODRhMDktYWU1YS00NTE5LTlkZWEtOGJjNDQ1YjM3NjdkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true"
     }
 ];
 
