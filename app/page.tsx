@@ -53,7 +53,7 @@ export default function Home() {
                   {project.title}
                 </h3>
                 <p className="text-gray-400 mb-6 line-clamp-3">
-                  {project.overview}
+                  {project.outcome}
                 </p>
                 <Link href={project.link} target="_blank" className="inline-flex items-center text-sm font-bold text-white hover:underline">
                   <FaGithub className="mr-2" /> View Source
